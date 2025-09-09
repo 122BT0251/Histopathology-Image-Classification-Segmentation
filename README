@@ -1,0 +1,18 @@
+Description:
+This project demonstrates AI-driven digital pathology workflows:
+
+Classification (CNN) on the PatchCamelyon dataset for tumor vs. normal tissue patches.
+
+Segmentation (U-Net) on the MoNuSeg dataset for nuclei boundary detection.
+
+Tech Stack: Python, TensorFlow/Keras, OpenCV, scikit-learn.
+
+Features:
+
+Automated dataset preprocessing (resizing, normalization, augmentation).
+
+CNN for binary classification achieving ~85% accuracy.
+
+U-Net for segmentation with sample predictions.
+
+End-to-end reproducible Colab notebook.
