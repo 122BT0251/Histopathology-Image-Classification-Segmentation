@@ -1,4 +1,4 @@
-Description:
+#Description:
 This project demonstrates AI-driven digital pathology workflows:
 
 Classification (CNN) on the PatchCamelyon dataset for tumor vs. normal tissue patches.
